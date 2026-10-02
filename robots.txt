@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modyfikatorcasper.github.io/modi-maps-dualsense-edge-x07-review/sitemap.xml
