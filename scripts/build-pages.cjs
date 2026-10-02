@@ -24,7 +24,7 @@ const hash=(bytes)=>crypto.createHash('sha256').update(bytes).digest('hex');
  const scripts=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m=>"'sha256-"+crypto.createHash('sha256').update(m[1]).digest('base64')+"'");
  if(scripts.length!==1)throw Error('Expected one inline application script');
  const csp=`default-src 'none'; script-src ${scripts.join(' ')}; style-src 'unsafe-inline'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'`;
- html=html.replace('<head>','<head><meta http-equiv="Content-Security-Policy" content="'+csp+'"><meta name="referrer" content="strict-origin-when-cross-origin">');
+ html=html.replace('<head>','<head><meta http-equiv="Content-Security-Policy" content="'+csp+'"><meta name="referrer" content="strict-origin-when-cross-origin"><link rel="icon" href="data:,">');
  if(/sourceMappingURL|components\.(csv|json)|https?:\/\/[^"<>\s]+\.js/.test(html))throw Error('Unexpected public data, source map or external script');
  await fs.writeFile(path.join(dist,'index.html'),html);
  const files=await fs.readdir(dist);if(files.length!==2||!files.includes('index.html')||!files.includes('a'))throw Error('Unexpected dist files');
