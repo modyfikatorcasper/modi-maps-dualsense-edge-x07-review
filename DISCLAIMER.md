@@ -4,6 +4,8 @@
 
 MODI MAPS i MODI Diagnostic Lab są niezależnymi, fanowskimi projektami społecznościowymi tworzonymi z myślą o dokumentacji technicznej, edukacji, diagnostyce i naprawie sprzętu.
 
+Projekt wspiera ideę prawa do naprawy poprzez bezpłatne udostępnianie społeczności wiedzy technicznej potrzebnej do diagnozowania, konserwacji i naprawy własnego sprzętu. Jest to opis celu i charakteru projektu, a nie twierdzenie o zakresie konkretnych uprawnień prawnych w danej jurysdykcji.
+
 Projekt nie jest powiązany, sponsorowany, wspierany ani zatwierdzony przez Sony Interactive Entertainment, Microsoft, Xbox ani innych producentów urządzeń opisanych w dokumentacji.
 
 Nazwy PlayStation, PS5, DualSense, DualSense Edge, Xbox oraz inne nazwy produktów, modeli, platform i znaki towarowe należą do ich odpowiednich właścicieli. Są używane wyłącznie w zakresie koniecznym do identyfikacji sprzętu, kompatybilności, elementów i procedur serwisowych.
@@ -15,6 +17,8 @@ MODI MAPS jest projektem MODI Diagnostic Lab / Modyfikator89. Nie należy interp
 ## EN
 
 MODI MAPS and MODI Diagnostic Lab are independent fan-made community projects created for technical documentation, education, diagnostics and hardware repair.
+
+The project supports right-to-repair principles by freely sharing technical knowledge that helps the community diagnose, maintain and repair their own hardware. This describes the purpose of the project and does not claim any specific legal entitlement in any jurisdiction.
 
 The project is not affiliated with, sponsored by, endorsed by or approved by Sony Interactive Entertainment, Microsoft, Xbox or any other manufacturer whose devices are referenced in the documentation.
 
