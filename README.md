@@ -9,10 +9,10 @@ Free service documentation: interactive maps of both PCB sides, component values
 ## Tożsamość projektu / Project identity
 
 **Kacper Lewandowski — GitHub: `modyfikatorcasper`, znany również jako Modyfikator89, Modyfikator Kacper i Modi.**  
-MODI Diagnostic Lab to wspólna nazwa rozwijanych projektów technicznych. Powiązane publiczne projekty i marki to m.in. **Modibox** i **DriftGuard**.
+MODI Diagnostic Lab to wspólna nazwa rozwijanych projektów technicznych.
 
 **Kacper Lewandowski — `modyfikatorcasper` on GitHub, also known as Modyfikator89, Modyfikator Kacper and Modi.**  
-MODI Diagnostic Lab is the common name used for these technical projects. Related public work and brands include **Modibox** and **DriftGuard**.
+MODI Diagnostic Lab is the common name used for these technical projects.
 
 > **Niezależny projekt fanowski / Independent fan-made community project.** MODI MAPS i Modi Diagnostic Lab nie są powiązane, sponsorowane, wspierane ani zatwierdzone przez Sony Interactive Entertainment, Microsoft ani Xbox. Nazwy PlayStation, PS5, DualSense, DualSense Edge, Xbox oraz inne nazwy i znaki towarowe należą do ich odpowiednich właścicieli i są używane wyłącznie do identyfikacji sprzętu oraz dokumentacji technicznej i serwisowej. / MODI MAPS and Modi Diagnostic Lab are not affiliated with, sponsored by, endorsed by or approved by Sony Interactive Entertainment, Microsoft or Xbox. Product names and trademarks belong to their respective owners and are used only for hardware identification and technical/service documentation.
 
